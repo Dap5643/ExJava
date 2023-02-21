@@ -1,3 +1,5 @@
+package Primele20Exercitii;
+
 import java.util.Arrays;
 
 public class Ex103 {

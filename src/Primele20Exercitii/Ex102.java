@@ -1,3 +1,5 @@
+package Primele20Exercitii;
+
 public class Ex102 {
     public static void main(String[] args) {
         int ar4[] = new int[]{10, 20, 33, 44, 23, 10};

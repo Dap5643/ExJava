@@ -1,3 +1,5 @@
+package Primele20Exercitii;
+
 import java.util.Scanner;
 
 public class Ex108 {
